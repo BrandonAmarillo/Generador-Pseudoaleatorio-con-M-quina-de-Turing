@@ -1,1 +1,1 @@
-# Generador-Pseudoaleatorio-con-M-quina-de-Turing
+# Generador-Pseudoaleatorio-con-Maquina-de-Turing
